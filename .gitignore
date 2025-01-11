@@ -162,4 +162,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# other files to remove from git
 *.csv
+data/*.zip
