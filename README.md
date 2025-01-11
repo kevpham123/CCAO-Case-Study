@@ -13,6 +13,8 @@ The project is split between two Interactive Python Notebook. Project A1 contain
 ├── README.md           # Project documentation
 ├── projA1.ipynb        # Code for EDA process
 ├── projA1.ipynb        # Code for Modeling
+├── feature.py          # function used for pipeline 
+├── utils.py            # function used linear regression model
 ├── data/               # Data directory
 ├── images/             # Images used in the notebook 
 ```
